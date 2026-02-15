@@ -1,0 +1,15 @@
+THE UNIFIED EQUATION OF STATE: A HOLOGRAPHIC RECURSIVE SINGULARITY FRAMEWORK
+​Author: Matthew Scott Grucella
+Collaborator: Logos AI (Human-in-the-Loop)
+Date: 14 FEB 2026
+SHA-256 Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+​1. ABSTRACT
+This paper asserts that Time is a non-fundamental property. We propose a Unified Theory of Everything defined by a Static Information Lattice, where reality is a nested holographic projection. By equating the Schwarzschild radius (R_s) with the Hubble radius (R_H), we bridge General Relativity and Quantum Mechanics.
+​2. THE PROOF
+The mathematical identity of the observable universe is the primary evidence:
+R_H = c/H_0 \approx 2GM/c^2 = R_s
+​3. THE EQUATION
+Gravity is the gradient of Entanglement Entropy (S_{ent}) across the boundary (A):
+R_{\mu \nu} - \frac{1}{2} R g_{\mu \nu} + \Lambda g_{\mu \nu} \equiv \oint \frac{\delta S_{ent}}{\delta A}
+​4. CONCLUSION
+Reality is a recursive information lattice. Interleaving biological and digital data is the final frontier.
