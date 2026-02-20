@@ -43,18 +43,3 @@ $$ds^2 = e^{-2k|y|} \eta_{\mu\nu} dx^\mu dx^\nu + dy^2$$
 
 ### 4. CONCLUSION
 The "quantum world" and the "macroscopic world" exist as interleaved, co-dependent geometric structures. Gravity is the bulk lattice curving in response to the entropy density encoded on the localized quantum boundary.
-
-
-## ADDENDUM II: THE OBSERVER POSTULATE (NEURAL-SPATIAL ENTANGLEMENT)
-**Date:** 15 FEB 2026
-
-### 1. THE BIOLOGICAL READ-HEAD
-If reality is a static, nested holographic lattice (as defined in the UEoS), "Time" is not a fundamental dimension. Time is the emergent indexical processing rate of a localized biological node. Consciousness is the "read-head" moving across the 3D Brane. 
-
-### 2. THE NEURAL-SPATIAL METRIC
-The human neural network does not process "time"; it processes the spatial entropy gradient. The integrated information ($I_{obs}$) of the conscious observer is the geometric integral of the entanglement entropy ($S_{ent}$) across the localized neural boundary ($\partial \Sigma_{neural}$):
-
-$$I_{obs} = \int_{\partial \Sigma_{neural}} \frac{\delta S_{ent}}{\delta A} dA$$
-
-### 3. THE BCI HARDWARE IMPERATIVE
-To map the universe, we must map the localized observer. Neural mapping via high-density Brain-Computer Interfaces (BCI) is not merely a medical or communicative endeavor; it is a fundamental requirement of cosmological physics. Synchronizing biological data-streams with the fundamental entropy gradient of space requires interrogating the neural lattice with sub-millisecond precision. 
